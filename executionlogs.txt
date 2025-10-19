@@ -1,0 +1,22 @@
+
+D:\projects\poc>node index.js
+Using wallet: 2UfTay1QYTmE8jZqpE8s7R2wXYkHNfuPTHC3XWrb8siH
+RPC: https://api.devnet.solana.com
+Local hash (hex): f05dc7ca36c8161f738f3b8402ddeb5e5e3f6946f4f371b5cb9081d58240365c
+Local salt (hex, keep this private): 1c2a6b7672a1add6bd4842271844996d
+Balance (devnet): 1 SOL
+✅ Memo tx signature: 53Ax2rAUMfvPq7DNLCGB9Ddjuimhi4jBSdYZPzTntHNZKhrCqiF8kc5J7LvMJoYc34P4pBnAf4uUztYRgX6XMYaC
+🔗 Solscan (devnet): https://solscan.io/tx/53Ax2rAUMfvPq7DNLCGB9Ddjuimhi4jBSdYZPzTntHNZKhrCqiF8kc5J7LvMJoYc34P4pBnAf4uUztYRgX6XMYaC?cluster=devnet
+Note: only the hash is on-chain; salt kept local for verification.
+
+D:\projects\poc>node index.js
+Using wallet: 2UfTay1QYTmE8jZqpE8s7R2wXYkHNfuPTHC3XWrb8siH
+RPC: https://api.devnet.solana.com
+Local hash (hex): 46b8d53162b7cfdae53938562b5cb74f5e9f58a10fcc7be11073611d463985a7
+Local salt (hex, keep this private): 586da629c6092b7500698dabf25d0716
+Balance (devnet): 0.999995 SOL
+✅ Memo tx signature: 3sdSMLW3vcm2nW4p7SyLHhBtixY8HYsps8turYkWN2wa4n8LEYFvpifBpNib2pRqZN3wtAV6UUQGigVzCBbY34vL
+🔗 Solscan (devnet): https://solscan.io/tx/3sdSMLW3vcm2nW4p7SyLHhBtixY8HYsps8turYkWN2wa4n8LEYFvpifBpNib2pRqZN3wtAV6UUQGigVzCBbY34vL?cluster=devnet
+Note: only the hash is on-chain; salt kept local for verification.
+
+D:\projects\poc>
